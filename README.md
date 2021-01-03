@@ -3,7 +3,7 @@
 **To-do list application** adapted by me, based on a simple project developed for studies during the Javascript Starter course offered by [Rocketseat](https://rocketseat.com.br/).
 
 <p align="center">
-  <img alt="To-do List" title="To-do List" src="./public/img/todoapp.gif" width="60%">
+  <img alt="To-do List" title="To-do List" src="./public/img/todoapp.gif" width="90%">
 </p><hr>
 
 ## Technologies and tools used:
