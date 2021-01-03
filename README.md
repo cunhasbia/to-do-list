@@ -24,10 +24,10 @@ Moreover, recommend use the [VSCode](https://code.visualstudio.com/) terminal.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/cunhasbia/todo-list
+$ git clone https://github.com/cunhasbia/to-do-list
 
 # Access the repository on your terminal. Example:
-$ cd /todo-list
+$ cd /to-do-list
 
 # Install dependencies
 $ yarn install
